@@ -16,13 +16,6 @@ Hey! I'm a computer science student fascinated with data and how it models the w
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white alt "java" />
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white alt "pytorch" />
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white alt "pandas" />
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white alt "numpy" />
-
-### Areas of interest 🧐
-                                                                                                                     
-- Data Science
-- Machine Learning
-- Software Engineering
-- Fullstack Development                                                                                             
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white alt "numpy" />                                                                                       
                                                                                                                      
                                                                                                                      
