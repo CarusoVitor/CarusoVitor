@@ -6,8 +6,6 @@ Hey! I'm a computer science student fascinated with data and how it models the w
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarusoVitor)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Languages and Tools 🤖
 <div align="left">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
